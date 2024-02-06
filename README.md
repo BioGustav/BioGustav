@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋 I'm BioGustav aka Tobias.
+
+
 
 <!--
 **BioGustav/BioGustav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=biogustav&show_icons=true&theme=ambient_gradient&bg_color=22.51,000000,440044&hide_border=true&border_radius=0&rank_icon=github" alt="BioGustav's GitHub stats" style="height: 200px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biogustav&layout=compact&&theme=ambient_gradient&bg_color=22.51,440044,000000&hide_border=true&border_radius=0" alt="Top Langs" style="height: 200px;">
