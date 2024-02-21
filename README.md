@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 # GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=biogustav&show_icons=true&theme=ambient_gradient&bg_color=45,000000,440044&hide_border=true&rank_icon=github" alt="BioGustav's GitHub stats" style="height: 200px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biogustav&layout=compact&theme=ambient_gradient&bg_color=45,000000,440044&hide_border=true" alt="Top Langs" style="height: 200px;">
+<img src="https://github-readme-stats.vercel.app/api?username=biogustav&show_icons=true&theme=ambient_gradient&bg_color=45,000000,440044&hide_border=true&rank_icon=github" alt="BioGustav's GitHub stats" style="height: 150px;width: 500px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biogustav&layout=compact&theme=ambient_gradient&bg_color=45,000000,440044&hide_border=true" alt="Top Langs" style="height: 150px;width: 500px;">
